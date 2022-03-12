@@ -1,0 +1,5 @@
+build:
+  docker:
+    omfo: Dockerfile
+run:
+  omfo: python3 -m SpamX
