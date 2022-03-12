@@ -1,0 +1,1 @@
+omfo: python -m RiZoeLXSpam
